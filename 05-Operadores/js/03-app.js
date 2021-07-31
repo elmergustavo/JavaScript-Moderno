@@ -9,7 +9,7 @@ let numero;
 console.log(numero); // La variable esta definida pero su valor no, por lo tanto es undefined...
 console.log(typeof numero)
 
-// En el caso de null es más bien asignarlo
+// En el caso de null es más bien asignarlo asignacion
 
 let numero2 = null;
 console.log(numero2);
