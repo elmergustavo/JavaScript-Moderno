@@ -3,7 +3,7 @@
 // En javascript existen diferentes tipos de datos primitivos a los que hemos visto, además de string y number se tienen booleans que son true o false,  y existen un par más llamados undefined y null
 
 
-// veamos un ejemplo de undefined.
+// veamos un ejemplo de undefined. ejmeplo
 let numero;
 
 console.log(numero); // La variable esta definida pero su valor no, por lo tanto es undefined...
