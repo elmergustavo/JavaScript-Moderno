@@ -20,7 +20,7 @@ resultado = Math.min(3,5,1,2,9,4,2, -3);
 resultado = Math.max(4,1,21,4,15,5,11,5);
 // Aleatorio
 resultado = Math.random();
-// Aleatorio dentro de un rango:
+// Aleatorio dentro de un rango: esto es un comentario
 resultado =  Math.floor( Math.random() * 30 );
 
 

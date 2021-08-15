@@ -2,7 +2,7 @@
 const producto = 'Monitor 24 pulgadas ';
 console.log(producto.toUpperCase() );
 
-// .toLowerCase()
+// .toLowerCase(), Todo a minisculas 
 console.log(producto.toLowerCase() );
 
 // .toString()
