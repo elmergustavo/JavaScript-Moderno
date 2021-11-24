@@ -1,6 +1,8 @@
 # JavaScript-Moderno
 JavaScript Moderno Guía Definitiva Construye +15 Proyectos
 
+![](https://github.com/elmergustavo/JavaScript-Moderno/blob/master/img/1.PNG)
+
 # Extensiones Visual Studio Code
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
